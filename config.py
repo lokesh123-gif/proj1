@@ -1,6 +1,0 @@
-customhost = "database-1.c8jykgwjxs7r.us-east-1.rds.amazonaws.com"
-customuser = "admin"
-custompass = "admin12345"
-customdb = "database-1"
-custombucket = "addemploye123"
-customregion = "us-east-1"
